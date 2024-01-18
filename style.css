@@ -1,0 +1,471 @@
+.a {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.a .overlap-wrapper {
+  background-color: #ffffff;
+  width: 595px;
+  height: 842px;
+}
+
+.a .overlap {
+  position: relative;
+  width: 586px;
+  height: 842px;
+}
+
+.a .overlap-group {
+  position: absolute;
+  width: 570px;
+  height: 842px;
+  top: 0;
+  left: 0;
+}
+
+.a .rectangle {
+  position: absolute;
+  width: 205px;
+  height: 842px;
+  top: 0;
+  left: 0;
+}
+
+.a .text-wrapper {
+  position: absolute;
+  top: 266px;
+  left: 17px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .div {
+  position: absolute;
+  top: 250px;
+  left: 17px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-2 {
+  position: absolute;
+  width: 230px;
+  top: 225px;
+  left: 17px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-3 {
+  position: absolute;
+  top: 211px;
+  left: 17px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-4 {
+  position: absolute;
+  top: 145px;
+  left: 18px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5f5f5;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .text-wrapper-5 {
+  position: absolute;
+  top: 190px;
+  left: 17px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .line {
+  width: 187px;
+  top: 168px;
+  left: 18px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.a .img {
+  width: 187px;
+  top: 328px;
+  left: 17px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.a .line-2 {
+  width: 187px;
+  top: 428px;
+  left: 17px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.a .line-3 {
+  width: 187px;
+  top: 552px;
+  left: 16px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+  
+}
+
+.a .line-4 {
+  width: 187px;
+  top: 640px;
+  left: 16px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.a .text-wrapper-6 {
+  position: absolute;
+  top: 173px;
+  left: 18px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-7 {
+  position: absolute;
+  top: 304px;
+  left: 17px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5f5f5;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .text-wrapper-8 {
+  position: absolute;
+  top: 334px;
+  left: 17px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: normal;
+  color: #f5f5f5;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.a .element-CSE-m-tech {
+  position: absolute;
+  width: 172px;
+  top: 354px;
+  left: 16px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-9 {
+  position: absolute;
+  top: 405px;
+  left: 17px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-10 {
+  position: absolute;
+  top: 433px;
+  left: 17px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-11 {
+  position: absolute;
+  top: 453px;
+  left: 17px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-12 {
+  position: absolute;
+  top: 472px;
+  left: 18px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-13 {
+  position: absolute;
+  top: 526px;
+  left: 16px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .text-wrapper-14 {
+  top: 562px;
+  left: 17px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-15 {
+  top: 580px;
+  left: 18px;
+  position: absolute;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .career-objective {
+  position: absolute;
+  top: 209px;
+  left: 226px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #333f50f0;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .line-5 {
+  width: 361px;
+  top: 234px;
+  left: 209px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.a .text-wrapper-16 {
+  position: absolute;
+  top: 490px;
+  left: 18px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-17 {
+  position: absolute;
+  top: 616px;
+  left: 16px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .runner-up-recognized {
+  position: absolute;
+  width: 150px;
+  top: 638px;
+  left: 19px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .overlap-2 {
+  position: absolute;
+  width: 366px;
+  height: 39px;
+  top: 56px;
+  left: 220px;
+}
+
+.a .text-wrapper-18 {
+  position: absolute;
+  width: 304px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #333f50f0;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .s-r-i-r-a-n-g-a-m {
+  position: absolute;
+  width: 269px;
+  top: 0;
+  left: 97px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #333f50f0;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .f-r-o-n-t-e-n-d-d-e {
+  position: absolute;
+  top: 95px;
+  left: 226px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .enthusiastic {
+  position: absolute;
+  width: 362px;
+  top: 241px;
+  left: 208px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #716f6f;
+  font-size: 12px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .text-wrapper-19 {
+  position: absolute;
+  top: 304px;
+  left: 226px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #333f50f0;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.a .line-6 {
+  width: 361px;
+  top: 328px;
+  left: 209px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.a .element-android {
+  position: absolute;
+  width: 337px;
+  top: 342px;
+  left: 212px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #716f6f;
+  font-size: 10px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.a .span {
+  font-weight: 600;
+}
+
+.a .text-wrapper-20 {
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.a .o-o-a-d-c-n {
+  position: absolute;
+  top: 114px;
+  left: 226px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
